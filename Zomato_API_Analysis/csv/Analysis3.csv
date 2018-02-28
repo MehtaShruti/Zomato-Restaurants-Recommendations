@@ -1,0 +1,8 @@
+City,Cuisine,Locality Verbose,Country Code,Count,Latitude,Longitude,Aggregate rating,Average Cost for two,Restaurant Name
+Pensacola,Greek,"Perdido Key, Pensacola",216,1,30.319982399999997,-87.4218962,4.7,10,Original Georgios Authentic Greek Food
+Cedar Rapids/Iowa City,American,"Iowa City, Cedar Rapids/Iowa City",216,3,41.663849,-91.531414,4.5,10,The Hamburg Inn No. 2 Inc.
+Cedar Rapids/Iowa City,Pizza,"Marion, Cedar Rapids/Iowa City",216,1,42.0331,-91.5995,4.7,25,Zoeys Pizzeria
+Rest of Hawaii,Seafood,"Kahuku, Rest of Hawaii",216,1,21.677078,-157.948486,4.5,25,Giovanni's Shrimp Truck
+Lincoln,Thai,"Haymarket, Lincoln",216,1,40.8143,-96.7072,4.5,25,Blue Orchid Thai Restaurant
+Orlando, Vegetarian,"Winter Park, Orlando",216,1,28.601088,-81.322631,4.7,25,Tibby's New Orleans Kitchen
+Orlando, Tea,"The Milk District, Orlando",216,1,28.543571000000004,-81.351467,4.9,25,Pom Pom's Teahouse and Sandwicheria

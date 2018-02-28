@@ -1,0 +1,142 @@
+Country Code,City,Highest Rated Restaurant,Rating Max,Lowest Rated Restaurant,Rating Min
+1,Agra,Sheroes Hangout,4.9,The Charcoal Chimney,3.4
+1,Ahmedabad,Cryo Lab,4.6,MoMo Cafí© - Courtyard By Marriott,3.6
+1,Allahabad,Eat On,3.7,Bikanerwala,3.2
+1,Amritsar,Gurdas Ram Jalebi Wala,4.1,Crystal Restaurant,3.4
+1,Aurangabad,Bhoj Restaurant,3.7,Domino's Pizza,3.1
+1,Bangalore,Toit,4.8,Hoot,3.9
+1,Bhopal,Sagar Gaire Fast Food,4.9,Black N White Cafe,3.3
+1,Bhubaneshwar,Barbeque Nation,4.6,Eram Rooftop,3.5
+1,Chandigarh,Barbeque Nation,4.5,Karim's,3.3
+1,Chennai,AB's - Absolute Barbecues,4.9,Paradise,3.8
+1,Coimbatore,CakeBee,4.9,Zucca Pizzeria,3.5
+1,Dehradun,The Great Indian Pub,4.9,The Punjabi Essence Restaurant,3.6
+1,Faridabad,Cafe Parmesan,4.5,Invitation,0.0
+1,Ghaziabad,Mr. Brown,3.9,The Big Scoop,0.0
+1,Goa,Burger Factory,4.8,Curlies,3.5
+1,Gurgaon,Caterspoint,4.9,Chinese Food,0.0
+1,Guwahati,Barbeque Nation,4.9,Yo! China,3.6
+1,Hyderabad,AB's - Absolute Barbecues,4.9,The Fisherman's Wharf,3.8
+1,Indore,Waffle House,4.3,Freito,3.1
+1,Jaipur,Zolocrust - Hotel Clarks Amer,4.9,Sky Beach,2.6
+1,Kanpur,Dhuaan,4.3,Hucka,3.3
+1,Kochi,Nawras Seafood Restaurant,4.6,Ali Baba & 41 Dishes,3.5
+1,Kolkata,Barbeque Nation,4.9,Mocambo,3.5
+1,Lucknow,Grandson of Tunday Kababi,4.9,Chemistry Cafí©,3.5
+1,Ludhiana,Aman Chicken,4.6,Spice Cube,3.5
+1,Mangalore,Giri Manja's,4.2,Smoke N Oven,3.5
+1,Mohali,The Shooters Cafe,4.3,The Shooters Cafe,4.3
+1,Mumbai,Mirchi And Mime,4.9,The American Joint,3.4
+1,Mysore,Vinayaka Mylari,4.2,The Barge Restaurant,3.3
+1,Nagpur,Barbeque Nation,4.9,KFC,2.2
+1,Nashik,Sadhana Restaurant,3.9,Little Italy,3.0
+1,New Delhi,Naturals Ice Cream,4.9,Swadist Bhojnalaya,0.0
+1,Noida,The Big Chill Cakery,4.5,Rocket Food,0.0
+1,Panchkula,Hops n Grains,4.2,Hops n Grains,4.2
+1,Patna,Spice Court - Hotel Maurya,3.7,Roti Restaurant,3.1
+1,Puducherry,Zuka Choco-la,4.2,Le Cafe,3.1
+1,Pune,Le Plaisir,4.8,Teddy Boy,3.6
+1,Ranchi,Kaveri Restaurant And Caterers,4.0,Jungli Moon Dance Restaurant,3.1
+1,Secunderabad,Coffee Cup,4.6,Saffron Mantra,4.4
+1,Surat,Falafel Lovers,4.3,Global Local,3.4
+1,Vadodara,La Quello - Mediterranean Kitchen,4.6,El Amigos Kitchen,3.5
+1,Varanasi,Kashi Chat Bhandar,4.1,3Cherryz Sky Lounge & Cafe,3.2
+1,Vizag,Barbeque Nation,4.9,My Restaurant,3.5
+14,Armidale,Whitebull Hotel,3.5,Whitebull Hotel,3.5
+14,Balingup,Taste of Balingup,3.2,Taste of Balingup,3.2
+14,Beechworth,Bridge Road Brewers,4.6,Bridge Road Brewers,4.6
+14,Dicky Beach,The Giggling Goat,3.6,The Giggling Goat,3.6
+14,East Ballina,The Belle General,4.1,The Belle General,4.1
+14,Flaxton,Flaxton Gardens,3.5,Flaxton Gardens,3.5
+14,Forrest,Bespoke Harvest,3.7,Bespoke Harvest,3.7
+14,Hepburn Springs,La Trattoria of Lavandula,3.8,Blue Bean Love Cafe,3.8
+14,Huskisson,5 Little Pigs,4.1,5 Little Pigs,4.1
+14,Inverloch,Beach Box Cafe,3.7,Beach Box Cafe,3.7
+14,Lakes Entrance,Funkey Monkey,3.8,Funkey Monkey,3.8
+14,Lorn,Stillwater on Belmore,3.6,Stillwater on Belmore,3.6
+14,Macedon,Mr.,3.5,Mr.,3.5
+14,Mayfield,Star Buffet,2.9,Star Buffet,2.9
+14,Middleton Beach,Three Anchors,3.8,Three Anchors,3.8
+14,Montville,Poets Cafe,2.4,Poets Cafe,2.4
+14,Palm Cove,Vivo Bar and Grill,4.4,Vivo Bar and Grill,4.4
+14,Paynesville,Pier 70,2.6,Pier 70,2.6
+14,Penola,DiVine,3.4,DiVine,3.4
+14,Phillip Island,Mad Cowes Cafe,3.7,Mad Cowes Cafe,3.7
+14,Tanunda,1918 Bistro & Grill,4.4,1918 Bistro & Grill,4.4
+14,Trentham East,Pig and Whistle,4.1,Pig and Whistle,4.1
+14,Victor Harbor,Anchorage Cafe Restaurant Wine Bar,3.6,Anchorage Cafe Restaurant Wine Bar,3.6
+30,Brasí_lia,Coco Bambu,4.9,Sandubas Cafí©,0.0
+30,Rio de Janeiro,Garota de Ipanema,4.9,Quiosque Chopp Brahma,0.0
+30,Sí£o Paulo,Skye - Hotel Unique,4.8,Cantinho da Gula,0.0
+37,Chatham-Kent,Tokyo Sushi,3.7,Tokyo Sushi,3.7
+37,Consort,Consort Restaurant,3.0,Consort Restaurant,3.0
+37,Vineland Station,Lake House Restaurant,4.3,Lake House Restaurant,4.3
+37,Yorkton,Arigato Sushi,3.3,Arigato Sushi,3.3
+94,Bandung,Noah's Barn Coffeenery,4.2,Noah's Barn Coffeenery,4.2
+94,Bogor,Lemongrass,4.0,Momo Milk,3.7
+94,Jakarta,Talaga Sampireun,4.9,Fish Streat,3.4
+94,Tangerang,Talaga Sampireun,4.9,Onokabe,3.7
+148,Auckland,Miann,4.9,De Fontein Belgian Beer Cafe,2.3
+148,Wellington City,The Hangar,4.6,wagamama,3.7
+162,Makati City,Le Petit Souffle,4.8,Izakaya Kikufuji,4.5
+162,Mandaluyong City,Ooma,4.9,Heat - Edsa Shangri-La,4.4
+162,Pasay City,Spiral - Sofitel Philippine Plaza Manila,4.9,Buffet 101,4.0
+162,Pasig City,Silantro Fil-Mex,4.9,Mad Mark's Creamery & Good Eats,4.2
+162,Quezon City,Silantro Fil-Mex,4.8,Silantro Fil-Mex,4.8
+162,San Juan City,Sodam Korean Restaurant,4.3,Guevarra's,4.2
+162,Santa Rosa,Nonna's Pasta & Pizzeria,4.0,Cafe Arabelle,3.6
+162,Tagaytay City,Balay Dako,4.5,Balay Dako,4.5
+162,Taguig City,NIU by Vikings,4.7,Wildflour Cafe + Bakery,4.4
+166,Doha,Mainland China Restaurant,4.9,7st by Mumbai Spices,3.4
+184,Singapore,Al'frank Cookies,4.2,Makansutra Gluttons Bay,3.0
+189,Cape Town,Jarryds,4.8,Rocomamas,3.6
+189,Inner City,Urbanologi,4.9,Cube - Tasting Kitchen,4.9
+189,Johannesburg,Marble,4.5,Hudsons,4.0
+189,Pretoria,Restaurant Mosaic @ The Orient,4.9,Parrot's,3.4
+189,Randburg,The Whippet,4.3,The Whippet,4.3
+189,Sandton,Gemelli Cucina Bar,4.8,Remo's Maximilliano,3.8
+191,Colombo,Ministry of Crab,4.9,Elite Indian Restaurant,2.4
+208,Ankara,Gaga Manjero,4.9,Liva,3.4
+208,ÛÁstanbul,Draft Gastro Pub,4.9,Huqqa,3.7
+214,Abu Dhabi,Punjab Grill,4.9,Sangeetha Vegetarian Restaurant,3.6
+214,Dubai,AB's Absolute Barbecues,4.9,Red Lobster,3.2
+214,Sharjah,Rajasthan Al Malaki,4.8,Pizza Hut,2.4
+215,Birmingham,Bodega,4.6,Damascena Coffee House,0.0
+215,Edinburgh,Roseleaf Bar Cafe,4.7,The Hanging Bat,3.5
+215,London,Bao,4.9,Five Guys,3.8
+215,Manchester,Solita,4.9,Santos,3.3
+216,Albany,Jimmie's Hot Dogs,3.9,BJ's Country Buffet,3.3
+216,Athens,Sr. Sol 1,4.6,The Grill,3.7
+216,Augusta,Rae's Coastal Cafe,4.9,Sconyers Bar B Que,3.5
+216,Boise,Flatbread Neapolitan Pizzeria,4.6,Chandlers Steakhouse,3.9
+216,Cedar Rapids/Iowa City,Shorts Burger and Shine,4.9,Bluebird Diner,3.6
+216,Clatskanie,Berry Patch Restaurant,4.3,Berry Patch Restaurant,4.3
+216,Cochrane,Sakura Sushi & Grill,3.1,Sakura Sushi & Grill,3.1
+216,Columbus,Cafe Le Rue @ The Landings,4.6,Uptown Vietnam cuisine,3.3
+216,Dalton,Oakwood Cafe,4.9,Southern Bliss Bakery,3.7
+216,Davenport,Tantra Asian Bistro,4.9,Frick's Tap,0.0
+216,Des Moines,The Cafe,4.9,Malo,3.2
+216,Dubuque,L. May Eatery,3.8,Catfish Charlie's,3.3
+216,Fernley,Jehova es Mi Pastor Tacos y Burritos,3.7,Jehova es Mi Pastor Tacos y Burritos,3.7
+216,Gainesville,Atlanta Highway Seafood Market,4.9,Troll Tavern,2.2
+216,Lakeview,Burger Queen Drive In,3.6,Burger Queen Drive In,3.6
+216,Lincoln,Blue Orchid Thai Restaurant,4.5,Blue Orchid Thai Restaurant,4.5
+216,Macon,Ingleside Village Pizza,4.9,Benson's Steak and Sushi,3.7
+216,Mc Millan,Triangle Restaurant,2.4,Triangle Restaurant,2.4
+216,Miller,HI Lite Bar & Lounge,3.4,HI Lite Bar & Lounge,3.4
+216,Monroe,Vince's Restaurant & Pizzeria,3.6,Vince's Restaurant & Pizzeria,3.6
+216,Ojo Caliente,The Artesian Restaurant,3.6,The Artesian Restaurant,3.6
+216,Orlando,Yellow Dog Eats,4.9,The Coop,3.6
+216,Pensacola,McGuire's Irish Pub & Brewery,4.9,Hemingway's Island Grill,3.5
+216,Pocatello,El Herradero,4.1,Nosh Mahal,0.0
+216,Potrero,Barrett Junction Cafe,3.3,Barrett Junction Cafe,3.3
+216,Princeton,Blue Point Grill,4.0,Blue Point Grill,4.0
+216,Rest of Hawaii,Mama's Fish House,4.9,Lulu's Waikiki,3.9
+216,Savannah,Green Truck Pub,4.7,The Lady & Sons,3.3
+216,Sioux City,Diamond Thai Cuisine,4.0,Kahill's Steak-Fish Chophouse,3.5
+216,Tampa Bay,Mazzaro's Italian Market,4.9,Edison: Food+Drink Lab,3.9
+216,Valdosta,Smok'n Pig B-B-Q,4.1,El Toreo Mexican Restaurant,3.1
+216,Vernonia,Blue House Cafe,4.3,Blue House Cafe,4.3
+216,Waterloo,Tokyo Japanese Steak House,3.9,Masala Grill & Coffee House,3.2
+216,Weirton,Theo Yianni's Authentic Greek Restaurant,3.9,Theo Yianni's Authentic Greek Restaurant,3.9
+216,Winchester Bay,Fishpatrick's Crabby Cafe,3.2,Fishpatrick's Crabby Cafe,3.2
